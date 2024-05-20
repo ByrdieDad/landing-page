@@ -109,3 +109,22 @@ header img {
     align-items: center;
 }
 
+.sectionthree {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.sectionthree p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    white-space: pre-wrap;
+    font-weight: lighter;
+}
+
+b {
+    font-size: 32px;
+}
